@@ -1,0 +1,6 @@
+= Installation SSH.
+== Présenation.
+Nous allons installer SSH sur un serveur avec les CD-ROMs DVD de debian.
+
+== Configuration.
+On va donc commencer par établir notre fichier de configuration `/etc/ssh/sshd_config` .

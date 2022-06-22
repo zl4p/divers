@@ -1,0 +1,5 @@
+[+] On renvoi la page si elle existe ... OK
+[+] Verifier la récupération du login ...
+[+] Crypter le mot de passe.
+[+] Comparer mot de passe avec database et login.
+[+] Créer page qui affiche les données utilisateurs (https://htmlstream.com/preview/nova-v1.2.2/demo-crypto/dashboards/ico-distribution-user.html)

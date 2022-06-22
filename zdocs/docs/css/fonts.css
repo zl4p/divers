@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "source code";
+    src: url("../fonts/SourceSansPro-Regular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "source code";
+    src: url("../fonts/SourceSansPro-SemiBold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "source code";
+    src: url("../fonts/SourceSansPro-Light.ttf");
+    font-weight: 300;
+}
+@font-face {
+    font-family: "inter";
+    src: url("../fonts/Inter-ExtraLight.ttf");
+    font-weight: 200;
+}
+@font-face {
+    font-family: "awesome";
+    src: url("../fonts/fontawesome-webfont.woff2") format("woff2");
+    font-weight: 400;
+}
